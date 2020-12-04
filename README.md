@@ -1,2 +1,2 @@
-# mozambique-weather-nodejs-api
+# constrole-de-temperatura-nodejs
 API Moçambicana de Temperatura
