@@ -1,2 +1,2 @@
-# constrole-de-temperatura-nodejs
-API Moçambicana de Temperatura
+# api-de-constrole-de-temperatura-nodejs
+API Moçambicana de Controle de Temperatura
